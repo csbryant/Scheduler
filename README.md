@@ -12,6 +12,9 @@ A user can save data on this page and it will be stored via local storage and di
 
 # Credits
 Grabbed time using Moment.JS
+
 https://momentjs.com/docs/
+<br><br>
 Used Moment.JS Tutorial by Dcode
+
 https://www.youtube.com/watch?v=n80RRNS1k64
